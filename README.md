@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas-vindas ao meu perfil 😎
 
-<!--
-**natmhdsdo/natmhdsdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Natmhdsdo
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br);
+- Estou me desenvolvendo na linguagem JavaScript;
+- Vou começar a utilizar esse espaço para minhas organizações e compartilhamentos dos meus projetos denvolvidos ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  00001098592669SP@al.educacao.sp.gov.br
+  
+  Insta: mhso.sanji.uzumake
+
+ ![]( https://media1.tenor.com/m/UFn_iTa4KjkAAAAd/sobamask-pfp.gif)
